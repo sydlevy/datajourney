@@ -1,0 +1,5 @@
+print("Hello, Class!")
+print("Hello, Class1!")
+print("Hello, Class2!")
+print("Hello, Class3!")
+print("Hello, Class!")                          
