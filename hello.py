@@ -1,2 +1,5 @@
-print{"this is a test")}ConnectionAbortedError
-classmethod
+name = "Syd"
+instructor = "Ben"
+
+print("Hello ",name)
+print(name, "is learning python with ",instructor)
